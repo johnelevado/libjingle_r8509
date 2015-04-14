@@ -1,0 +1,12 @@
+# view res/layout/activity_call.xml #generated:10
+-keep class android.opengl.GLSurfaceView { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class org.appspot.apprtc.CallActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class org.appspot.apprtc.ConnectActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class org.appspot.apprtc.SettingsActivity { <init>(...); }
+
